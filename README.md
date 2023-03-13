@@ -5,6 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando em **Projetos de Business Intelligence**
 - 🌱 Atualmente estou aprendendo **Python**, **NodeJS**
+- 🦾 Dominando **Java Web**
 - 📫 Como entrar em contato comigo: **rafaelmartinsch@gmail.com**
 
 
