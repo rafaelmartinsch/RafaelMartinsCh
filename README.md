@@ -64,9 +64,9 @@
     </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-martins-chimenes&show_icons=true&locale=en" alt="rafael-martins-chimenes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-martins-chimenes&show_icons=true&locale=en" alt="RafaelMartinsCh" /></p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-martins-chimenes&show_icons=true&locale=en&layout=compact" alt="rafael-martins-chimenes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelMartinsCh&show_icons=true&locale=en&layout=compact" alt="rafael-martins-chimenes" /></p>
 
 
 
