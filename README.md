@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelmartinsdev&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
 
-- 🔭 Atualmente estou trabalhando em **Projetos de Business Intelligence**
-- 🌱 Atualmente estou aprendendo **Python**, **NodeJS**
-- 🦾 Dominando **Java Web**
-- 📫 Como entrar em contato comigo: **rafaelmartinsch@gmail.com**
-
 
 <h3 align="left">Minhas Redes Sociais:</h3>
 <p align="left">
